@@ -1,5 +1,7 @@
- 'Home Deezer'
+ 'Output Music'
 =================
+
+Listen to your music files remotely.
 
 ### Purpose
 * Mount locally a remote system via SSH.
